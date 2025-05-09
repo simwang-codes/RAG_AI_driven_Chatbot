@@ -1,0 +1,338 @@
+Year,Game,Genre,Original platform,Publisher,HQ Location
+1971,The Oregon Trail,Strategy,HP 2100,MECC,Other
+1972,Pong,Sports,Arcade,"Atari, Inc.",United States
+1977,Combat,Top-down shooter,Atari 2600,"Atari, Inc.",United States
+1977,Zork,Adventure,PDP-10,Infocom,United States
+1978,Space Invaders,Shoot 'em up,Arcade,Taito,Japan
+1979,Asteroids,Shoot 'em up,Arcade,"Atari, Inc.",United States
+1980,Adventure,Action-adventure,Atari 2600,"Atari, Inc.",United States
+1980,Battlezone,Vehicle simulation,Arcade,"Atari, Inc.",United States
+1980,Missile Command,Shoot 'em up,Arcade,"Atari, Inc.",United States
+1980,Pac-Man,Maze,Arcade,Namco,Japan
+1981,Centipede,Shoot 'em up,Arcade,"Atari, Inc.",United States
+1981,Defender,Shoot 'em up,Arcade,Williams Electronics,United States
+1981,Donkey Kong,Platform,Arcade,Nintendo,Japan
+1981,Frogger,Action,Arcade,"Konami,Sega",Japan
+1981,Galaga,Shoot 'em up,Arcade,Namco,Japan
+1981,Tempest,Shoot 'em up,Arcade,"Atari, Inc.",United States
+1981,Wizardry: Proving Grounds of the Mad Overlord,Role-playing,Apple II,Sir-Tech,Other
+1982,Joust,Action,Arcade,Williams Electronics,United States
+1982,Ms. Pac-Man,Maze,Arcade,Midway,Other
+1982,Pitfall!,Platform,Atari 2600,Activision,United States
+1982,Robotron: 2084,Top-down shooter,Arcade,Williams Electronics,United States
+1983,Archon: The Light and the Dark,Strategy,Atari 8-bit,Electronic Arts,United States
+1983,Lode Runner,Platform,Apple II,Broderbund,United States
+1983,M.U.L.E.,Business simulation,"Atari 8-bit,Commodore 64",Electronic Arts,United States
+1983,Star Wars,Rail shooter,Arcade,"Atari, Inc.",United States
+1984,Elite,Space flight simulator,BBC Micro,Acornsoft,United Kingdom
+1984,Marble Madness,Action,Arcade,Atari Games,United States
+1985,Gauntlet,Hack and slash,Arcade,Atari Games,United States
+1985,Ghosts 'n Goblins,Platform,Arcade,Capcom,Japan
+1985,Super Mario Bros.,Platform,NES,Nintendo,Japan
+1985,Tetris,Puzzle,Electronika 60,Elorg,Russia
+1985,Ultima IV: Quest of the Avatar,Role-playing,Apple II,Origin Systems,Other
+1986,Arkanoid,Block breaker,Arcade,Taito,Japan
+1986,Bubble Bobble,Platform,Arcade,Taito,Japan
+1986,The Legend of Zelda,Action-adventure,NES,Nintendo,Japan
+1986,Out Run,Racing,Arcade,Sega,Japan
+1987,Contra,Run and gun,Arcade,Konami,Japan
+1987,Double Dragon,Beat 'em up,Arcade,Technos Japan,Japan
+1987,Dungeon Master,Role-playing,Atari ST,FTL Games,United States
+1987,Mike Tyson's Punch-Out!!,Sports,NES,Nintendo,Japan
+1987,R-Type,Shoot 'em up,Arcade,Irem,Japan
+1987,Sid Meier's Pirates!,Action-adventure,Commodore 64,MicroProse,Other
+1988,Mega Man 2,Platform,NES,Capcom,Japan
+1988,Ninja Gaiden,Platform,NES,Tecmo,Japan
+1988,Super Mario Bros. 3,Platform,NES,Nintendo,Japan
+1989,Final Fight,Beat 'em up,Arcade,Capcom,Japan
+1989,Populous,God game,Amiga,Electronic Arts,United States
+1989,Prince of Persia,Platform,Apple II,Broderbund,United States
+1989,SimCity,City-building,"Amiga,Mac",Maxis,United States
+1990,The Secret of Monkey Island,Adventure,PC,LucasArts,United States
+1990,Speedball 2: Brutal Deluxe,Sports,"Amiga,Atari ST",Image Works,United Kingdom
+1990,Super Mario World,Platform,Super NES,Nintendo,Japan
+1990,Wing Commander,Space flight simulator,PC,Origin Systems,Other
+1991,Another World,Platform,"Amiga,Atari ST",Delphine Software,France
+1991,Civilization,Turn-based strategy,PC,MicroProse,Other
+1991,Final Fantasy IV,Role-playing,Super NES,Square,Japan
+1991,The Legend of Zelda: A Link to the Past,Action-adventure,Super NES,Nintendo,Japan
+1991,Lemmings,Puzzle,Amiga,Psygnosis,United Kingdom
+1991,Micro Machines,Racing,NES,Camerica,Canada
+1991,Monkey Island 2: LeChuck's Revenge,Adventure,PC,LucasArts,United States
+1991,Sonic the Hedgehog,Platform,Sega Genesis,Sega,Japan
+1991,Street Fighter II,Fighting,Arcade,Capcom,Japan
+1991,Super Castlevania IV,Platform,Super NES,Konami,Japan
+1992,Alone in the Dark,Survival horror,PC,Infogrames,France
+1992,Contra III: The Alien Wars,Run and gun,Super NES,Konami,Japan
+1992,Dune II,Real-time strategy,PC,Virgin Games,United States
+1992,Flashback,Platform,Amiga,U.S. Gold,United Kingdom
+1992,Indiana Jones and the Fate of Atlantis,Adventure,PC,LucasArts,United States
+1992,Mortal Kombat,Fighting,Arcade,Midway,Other
+1992,Sensible Soccer,Sports,"Amiga,Atari ST",Renegade Software,Other
+1992,Sonic the Hedgehog 2,Platform,Sega Genesis,Sega,Japan
+1992,Star Control II,Action-adventure,PC,Accolade,United States
+1992,Streets of Rage 2,Beat 'em up,Sega Genesis,Sega,Japan
+1992,Super Mario Kart,Kart racing,Super NES,Nintendo,Japan
+1992,Ultima VII: The Black Gate,Role-playing,PC,Origin Systems,Other
+1992,Virtua Racing,Racing,Arcade,Sega,Japan
+1992,Wolfenstein 3D,First-person shooter,PC,Apogee Software,Other
+1993,Day of the Tentacle,Adventure,PC,LucasArts,United States
+1993,Doom,First-person shooter,PC,id Software,United States
+1993,Gunstar Heroes,Run and gun,Sega Genesis,Sega,Japan
+1993,The Legend of Zelda: Link's Awakening,Action-adventure,Game Boy,Nintendo,Japan
+1993,Mega Man X,Platform,Super NES,Capcom,Japan
+1993,Mortal Kombat II,Fighting,Arcade,Midway,Other
+1993,Myst,Adventure,Mac,Broderbund,United States
+1993,NBA Jam,Sports,Arcade,Midway,Other
+1993,Phantasy Star IV,Role-playing,Sega Genesis,Sega,Japan
+1993,Ridge Racer,Racing,Arcade,Namco,Japan
+1993,Sam & Max Hit the Road,Adventure,PC,LucasArts,United States
+1993,Secret of Mana,Action role-playing,Super NES,Square,Japan
+1993,Samurai Shodown,Fighting,Arcade,SNK,Japan
+1993,SimCity 2000,City-building,Mac,Maxis,United States
+1993,Star Fox,Rail shooter,Super NES,Nintendo,Japan
+1993,Syndicate,Real-time tactics,"Amiga,PC",Electronic Arts,United States
+1994,Daytona USA,Racing,Arcade,Sega,Japan
+1994,Donkey Kong Country,Platform,Super NES,Nintendo,Japan
+1994,Doom II,First-person shooter,PC,GT Interactive,United States
+1994,EarthBound,Role-playing,Super NES,Nintendo,Japan
+1994,Final Fantasy VI,Role-playing,Super NES,Square,Japan
+1994,Sega Rally Championship,Racing,Arcade,Sega,Japan
+1994,Sensible World of Soccer,Sports,Amiga,Renegade Software,Other
+1994,Star Wars: TIE Fighter,Space flight simulator,PC,LucasArts,United States
+1994,Super Metroid,Action-adventure,Super NES,Nintendo,Japan
+1994,Tempest 2000,Shoot 'em up,Atari Jaguar,Atari Corporation,United States
+1994,Theme Park,Business simulation,"Amiga,PC",Electronic Arts,United States
+1994,Virtua Fighter 2,Fighting,Arcade,Sega,Japan
+1994,X-COM: UFO Defense,Turn-based strategy,PC,MicroProse,Other
+1995,Chrono Trigger,Role-playing,Super NES,Square,Japan
+1995,Command & Conquer,Real-time strategy,PC,Virgin Interactive,United States
+1995,MechWarrior 2: 31st Century Combat,Vehicle simulation,PC,Activision,United States
+1995,Warcraft II: Tides of Darkness,Real-time strategy,PC,Blizzard Entertainment,United States
+1995,Wipeout,Racing,"PC,PlayStation",Psygnosis,United Kingdom
+1995,Worms,Artillery,Amiga,Ocean Software,United Kingdom
+1995,Yoshi's Island,Platform,Super NES,Nintendo,Japan
+1996,Civilization II,Turn-based strategy,PC,MicroProse,Other
+1996,Command & Conquer: Red Alert,Real-time strategy,PC,Virgin Interactive,United States
+1996,Duke Nukem 3D,First-person shooter,PC,GT Interactive,United States
+1996,Mario Kart 64,Kart racing,Nintendo 64,Nintendo,Japan
+1996,Nights into Dreams,Action,Saturn,Sega,Japan
+1996,PaRappa the Rapper,Rhythm,PlayStation,Sony Computer Entertainment,United States
+1996,Pokémon RedandBlue,Role-playing,Game Boy,Nintendo,Japan
+1996,Quake,First-person shooter,PC,GT Interactive,United States
+1996,Resident Evil,Survival horror,PlayStation,Capcom,Japan
+1996,Super Mario 64,Platform,Nintendo 64,Nintendo,Japan
+1996,Tomb Raider,Action-adventure,"Saturn,PC,PlayStation",Eidos Interactive,United Kingdom
+1996,Wave Race 64,Racing,Nintendo 64,Nintendo,Japan
+1996,Wipeout 2097,Racing,PlayStation,Psygnosis,United Kingdom
+1997,Age of Empires,Real-time strategy,PC,Microsoft,United States
+1997,Castlevania: Symphony of the Night,Action role-playing,PlayStation,Konami,Japan
+1997,Diablo,Action role-playing,PC,Blizzard Entertainment,United States
+1997,Fallout,Role-playing,PC,Interplay Entertainment,United States
+1997,Final Fantasy Tactics,Tactical role-playing,PlayStation,Square,Japan
+1997,Final Fantasy VII,Role-playing,PlayStation,Square,Japan
+1997,GoldenEye 007,First-person shooter,Nintendo 64,Nintendo,Japan
+1997,Gran Turismo,Racing,PlayStation,Sony Computer Entertainment,United States
+1997,Grand Theft Auto,Action-adventure,PC,BMG Interactive,United States
+1997,Quake II,First-person shooter,PC,Activision,United States
+1997,Star Fox 64,Rail shooter,Nintendo 64,Nintendo,Japan
+1997,Star Wars Jedi Knight: Dark Forces II,First-person shooter,PC,LucasArts,United States
+1997,Tekken 3,Fighting,Arcade,Namco,Japan
+1997,Total Annihilation,Real-time strategy,"PC,Mac",Cavedog Entertainment,United States
+1997,Ultima Online,MMORPG,"PC,Linux",Electronic Arts,United States
+1998,Baldur's Gate,Role-playing,PC,Black Isle Studios,United States
+1998,Crash Bandicoot: Warped,Platform,PlayStation,Sony Computer Entertainment,United States
+1998,Dance Dance Revolution,Rhythm,Arcade,Konami,Japan
+1998,Fallout 2,Role-playing,PC,Interplay Entertainment,United States
+1998,Grim Fandango,Adventure,PC,LucasArts,United States
+1998,Half-Life,First-person shooter,PC,Sierra Studios,United States
+1998,The Legend of Zelda: Ocarina of Time,Action-adventure,Nintendo 64,Nintendo,Japan
+1998,Metal Gear Solid,Stealth,PlayStation,Konami,Japan
+1998,Panzer Dragoon Saga,Role-playing,Saturn,Sega,Japan
+1998,Resident Evil 2,Survival horror,PlayStation,Capcom,Japan
+1998,Soulcalibur,Fighting,Arcade,Namco,Japan
+1998,StarCraft,Real-time strategy,PC,Blizzard Entertainment,United States
+1998,Suikoden II,Role-playing,PlayStation,Konami,Japan
+1998,Thief: The Dark Project,Stealth,PC,Eidos Interactive,United Kingdom
+1999,Age of Empires II,Real-time strategy,PC,Microsoft,United States
+1999,EverQuest,MMORPG,PC,Sony Online Entertainment,United States
+1999,Homeworld,Real-time strategy,PC,Sierra Studios,United States
+1999,Planescape: Torment,Role-playing,PC,Interplay Entertainment,United States
+1999,Pokémon GoldandSilver,Role-playing,Game Boy Color,Nintendo,Japan
+1999,Quake III: Arena,First-person shooter,PC,Activision,United States
+1999,Shenmue,Action-adventure,Dreamcast,Sega,Japan
+1999,Silent Hill,Survival horror,PlayStation,Konami,Japan
+1999,System Shock 2,Action role-playing,PC,Electronic Arts,United States
+1999,Tony Hawk's Pro Skater,Sports,PlayStation,Activision,United States
+1999,Unreal Tournament,First-person shooter,PC,GT Interactive,United States
+2000,Baldur's Gate II: Shadows of Amn,Role-playing,PC,Black Isle Studios,United States
+2000,Counter-Strike,First-person shooter,PC,Valve,United States
+2000,Deus Ex,Action role-playing,PC,Eidos Interactive,United Kingdom
+2000,Diablo II,Action role-playing,PC,Blizzard Entertainment,United States
+2000,Jet Set Radio,Action,Dreamcast,Sega,Japan
+2000,The Legend of Zelda: Majora's Mask,Action-adventure,Nintendo 64,Nintendo,Japan
+2000,Perfect Dark,First-person shooter,Nintendo 64,Rare,United Kingdom
+2000,Marvel vs. Capcom 2: New Age of Heroes,Fighting,Arcade,Capcom,Japan
+2000,The Sims,Life simulation,PC,Electronic Arts,United States
+2000,Thief II: The Metal Age,Stealth,PC,Eidos Interactive,United Kingdom
+2000,Tony Hawk's Pro Skater 2,Sports,PlayStation,Activision,United States
+2000,Vagrant Story,Action role-playing,PlayStation,Square,Japan
+2001,Advance Wars,Turn-based strategy,Game Boy Advance,Nintendo,Japan
+2001,Animal Crossing,Life simulation,Nintendo 64,Nintendo,Japan
+2001,Devil May Cry,Action-adventure,PS2,Capcom,Japan
+2001,Final Fantasy X,Role-playing,PS2,Square,Japan
+2001,Gran Turismo 3: A-Spec,Racing,PS2,Sony Computer Entertainment,United States
+2001,Grand Theft Auto III,Action-adventure,PS2,Rockstar Games,United States
+2001,Halo: Combat Evolved,First-person shooter,Xbox,Microsoft Game Studios,United States
+2001,Ico,Action-adventure,PS2,Sony Computer Entertainment,United States
+2001,Ikaruga,Shoot 'em up,Arcade,Treasure,Japan
+2001,Max Payne,Third-person shooter,PC,Gathering of Developers,United States
+2001,Metal Gear Solid 2: Sons of Liberty,Stealth,PS2,Konami,Japan
+2001,Phoenix Wright: Ace Attorney,Adventure,Game Boy Advance,Capcom,Japan
+2001,Rez,Rail shooter,"Dreamcast,PS2",Sega,Japan
+2001,Silent Hill 2,Survival horror,PS2,Konami,Japan
+2001,Super Smash Bros. Melee,Fighting,GameCube,Nintendo,Japan
+2001,Tony Hawk's Pro Skater 3,Sports,"PlayStation,PS2",Activision,United States
+2002,Battlefield 1942,First-person shooter,PC,Electronic Arts,United States
+2002,The Elder Scrolls III: Morrowind,Action role-playing,PC,Bethesda Softworks,United States
+2002,Eternal Darkness: Sanity's Requiem,Survival horror,GameCube,Nintendo,Japan
+2002,Grand Theft Auto: Vice City,Action-adventure,PS2,Rockstar Games,United States
+2002,Kingdom Hearts,Action role-playing,PS2,Square,Japan
+2002,The Legend of Zelda: The Wind Waker,Action-adventure,GameCube,Nintendo,Japan
+2002,Metroid Prime,Action-adventure,GameCube,Nintendo,Japan
+2002,Soulcalibur II,Fighting,Arcade,Namco,Japan
+2002,Tom Clancy's Splinter Cell,Stealth,Xbox,Ubisoft,France
+2002,Warcraft III: Reign of Chaos,Real-time strategy,"PC,Mac",Blizzard Entertainment,United States
+2003,Beyond Good & Evil,Action-adventure,PS2,Ubisoft,France
+2003,F-Zero GX,Racing,GameCube,Nintendo,Japan
+2003,Max Payne 2: The Fall of Max Payne,Third-person shooter,PC,Rockstar Games,United States
+2003,Prince of Persia: The Sands of Time,Action-adventure,"GameCube,PS2,Xbox",Ubisoft,France
+2003,Star Wars: Knights of the Old Republic,Role-playing,Xbox,LucasArts,United States
+2003,"WarioWare, Inc.: Mega Microgames!",Action,Game Boy Advance,Nintendo,Japan
+2004,Burnout 3: Takedown,Racing,"PS2,Xbox",Electronic Arts,United States
+2004,The Chronicles of Riddick: Escape from Butcher Bay,Stealth,Xbox,Vivendi Universal Games,United States
+2004,Dragon Quest VIII,Role-playing,PS2,Square Enix,Japan
+2004,Gran Turismo 4,Racing,PS2,Sony Computer Entertainment,United States
+2004,Grand Theft Auto: San Andreas,Action-adventure,PS2,Rockstar Games,United States
+2004,Half-Life 2,First-person shooter,PC,Valve,United States
+2004,Halo 2,First-person shooter,Xbox,Microsoft Game Studios,United States
+2004,Katamari Damacy,Action,PS2,Namco,Japan
+2004,Metal Gear Solid 3: Snake Eater,Stealth,PS2,Konami,Japan
+2004,Paper Mario: The Thousand-Year Door,Role-playing,GameCube,Nintendo,Japan
+2004,Rome: Total War,Strategy,PC,Activision,United States
+2004,The Sims 2,Life simulation,PC,Electronic Arts,United States
+2004,World of Warcraft,MMORPG,"PC,Mac",Blizzard Entertainment,United States
+2005,Call of Duty 2,First-person shooter,PC,Activision,United States
+2005,Civilization IV,Turn-based strategy,PC,2K Games,United States
+2005,Devil May Cry 3: Dante's Awakening,Action-adventure,PS2,Capcom,Japan
+2005,God of War,Action-adventure,PS2,Sony Computer Entertainment,United States
+2005,Guitar Hero,Rhythm,PS2,RedOctane,United States
+2005,Kingdom Hearts II,Action role-playing,PS2,Square Enix,Japan
+2005,Psychonauts,Platform,"PC,Xbox",Majesco,Other
+2005,Resident Evil 4,Survival horror,GameCube,Capcom,Japan
+2005,Shadow of the Colossus,Action-adventure,PS2,Sony Computer Entertainment,United States
+2005,Tom Clancy's Splinter Cell: Chaos Theory,Stealth,"GameCube,PC,PS2,Xbox",Ubisoft,France
+2006,Company of Heroes,Real-time strategy,PC,THQ,United States
+2006,The Elder Scrolls IV: Oblivion,Action role-playing,"PC,Xbox 360","2K Games,Bethesda Softworks",United States
+2006,Gears of War,Third-person shooter,Xbox 360,Microsoft Game Studios,United States
+2006,Hitman: Blood Money,Stealth,"PC,PS2,Xbox,Xbox 360",Eidos Interactive,United Kingdom
+2006,The Legend of Zelda: Twilight Princess,Action-adventure,"GameCube,Wii",Nintendo,Japan
+2006,Ōkami,Action-adventure,PS2,Capcom,Japan
+2006,Wii Sports,Sports,Wii,Nintendo,Japan
+2007,BioShock,First-person shooter,"PC,Xbox 360",2K Games,United States
+2007,Call of Duty 4: Modern Warfare,First-person shooter,"PC,PS3,Xbox 360",Activision,United States
+2007,God of War II,Action-adventure,PS2,Sony Computer Entertainment,United States
+2007,Halo 3,First-person shooter,Xbox 360,Microsoft Game Studios,United States
+2007,Mass Effect,Action role-playing,Xbox 360,Microsoft Game Studios,United States
+2007,Peggle,Puzzle,PC,PopCap Games,United States
+2007,Portal,Puzzle-platform,"PC,Xbox 360",Valve,United States
+2007,Rock Band,Rhythm,"PS3,Xbox 360",MTV Games,United States
+2007,Super Mario Galaxy,Platform,Wii,Nintendo,Japan
+2007,Team Fortress 2,First-person shooter,"PC,Xbox 360",Valve,United States
+2007,The World Ends with You,Action role-playing,Nintendo DS,Square Enix,Japan
+2008,Braid,Puzzle-platform,Xbox 360,Microsoft Game Studios,United States
+2008,Burnout Paradise,Racing,"PC,PS3,Xbox 360",Electronic Arts,United States
+2008,Dead Space,Survival horror,"PC,PS3,Xbox 360",Electronic Arts,United States
+2008,Fable II,Action role-playing,Xbox 360,Microsoft Game Studios,United States
+2008,Fallout 3,Action role-playing,"PC,PS3,Xbox 360",Bethesda Softworks,United States
+2008,Gears of War 2,Third-person shooter,Xbox 360,Microsoft Game Studios,United States
+2008,Grand Theft Auto IV,Action-adventure,"PS3,Xbox 360",Rockstar Games,United States
+2008,Left 4 Dead,First-person shooter,"PC,Xbox 360",Valve,United States
+2008,LittleBigPlanet,Platform,PS3,Sony Computer Entertainment,United States
+2008,Persona 4,Role-playing,PS2,Atlus,Japan
+2008,Rock Band 2,Rhythm,Xbox 360,MTV Games,United States
+2008,Spelunky,Platform,PC,Derek Yu,Other
+2008,Street Fighter IV,Fighting,Arcade,Capcom,Japan
+2008,Super Smash Bros. Brawl,Fighting,Wii,Nintendo,Japan
+2008,Valkyria Chronicles,Tactical role-playing,PS3,Sega,Japan
+2009,Angry Birds,Puzzle,"Maemo,iOS",Rovio Entertainment,Finland
+2009,Assassin's Creed II,Action-adventure,"PS3,Xbox 360",Ubisoft,France
+2009,Batman: Arkham Asylum,Action-adventure,"PS3,Xbox 360","Eidos Interactive,Warner Bros.",United Kingdom
+2009,Bayonetta,Action-adventure,"PS3,Xbox 360",Sega,Japan
+2009,Borderlands,Action role-playing,"PC,PS3,Xbox 360",2K Games,United States
+2009,Demon's Souls,Action role-playing,PS3,Sony Computer Entertainment,United States
+2009,Dragon Age: Origins,Role-playing,"PC,PS3,Xbox 360",Electronic Arts,United States
+2009,League of Legends,MOBA,PC,Riot Games,United States
+2009,Left 4 Dead 2,First-person shooter,"PC,Xbox 360",Valve,United States
+2009,Plants vs. Zombies,Tower defense,"PC,Mac",PopCap Games,United States
+2009,The Sims 3,Life simulation,PC,Electronic Arts,United States
+2009,Uncharted 2: Among Thieves,Action-adventure,PS3,Sony Computer Entertainment,United States
+2010,Assassin's Creed: Brotherhood,Action-adventure,"PS3,Xbox 360",Ubisoft,France
+2010,Civilization V,Turn-based strategy,PC,2K Games,United States
+2010,Fallout: New Vegas,Action role-playing,"PC,PS3,Xbox 360",Bethesda Softworks,United States
+2010,God of War III,Action-adventure,PS3,Sony Computer Entertainment,United States
+2010,Heavy Rain,Adventure,PS3,Sony Computer Entertainment,United States
+2010,Limbo,Puzzle-platform,Xbox 360,Microsoft Game Studios,United States
+2010,Mass Effect 2,Action role-playing,"PC,Xbox 360",Electronic Arts,United States
+2010,Red Dead Redemption,Action-adventure,"PS3,Xbox 360",Rockstar Games,United States
+2010,Rock Band 3,Rhythm,"Nintendo DS,PS3,Xbox 360,Wii",MTV Games,United States
+2010,StarCraft II: Wings of Liberty,Real-time strategy,"PC,Mac",Blizzard Entertainment,United States
+2010,Super Mario Galaxy 2,Platform,Wii,Nintendo,Japan
+2010,Super Meat Boy,Platform,Xbox 360,Team Meat,Other
+2010,Xenoblade Chronicles,Action role-playing,Wii,Nintendo,Japan
+2011,Batman: Arkham City,Action-adventure,"PS3,Xbox 360",Warner Bros.,United States
+2011,Dark Souls,Action role-playing,"PS3,Xbox 360",Namco Bandai,Japan
+2011,The Elder Scrolls V: Skyrim,Action role-playing,"PC,PS3,Xbox 360",Bethesda Softworks,United States
+2011,Minecraft,Sandbox,"PC,Mac,Linux",Mojang,Sweden
+2011,Portal 2,Puzzle-platform,"PC,PS3,Xbox 360",Valve,United States
+2012,Borderlands 2,Action role-playing,"PC,PS3,Xbox 360",2K Games,United States
+2012,Dishonored,Stealth,"PC,PS3,Xbox 360",Bethesda Softworks,United States
+2012,Far Cry 3,First-person shooter,"PC,PS3,Xbox 360",Ubisoft,France
+2012,Fire Emblem Awakening,Tactical role-playing,Nintendo 3DS,Nintendo,Japan
+2012,Hotline Miami,Top-down shooter,PC,Devolver Digital,United States
+2012,Journey,Adventure,PS3,Sony Computer Entertainment,United States
+2012,The Walking Dead,Adventure,"PC,PS3,Xbox 360",Telltale Games,United States
+2012,XCOM: Enemy Unknown,Turn-based strategy,"PC,PS3,Xbox 360",2K Games,United States
+2013,BioShock Infinite,First-person shooter,"PC,PS3,Xbox 360",2K Games,United States
+2013,Dota 2,MOBA,PC,Valve,United States
+2013,Grand Theft Auto V,Action-adventure,"PS3,Xbox 360",Rockstar Games,United States
+2013,The Last of Us,Action-adventure,PS3,Sony Computer Entertainment,United States
+2013,"Papers, Please",Puzzle,"PC,Mac",3909 LLC,Other
+2014,Alien: Isolation,Survival horror,"PC,PS3,PS4,Xbox 360,Xbox One",Sega,Japan
+2014,Destiny,First-person shooter,"PS3,PS4,Xbox 360,Xbox One",Activision,United States
+2014,Hearthstone,Digital collectible card,"PC,Mac",Blizzard Entertainment,United States
+2014,Mario Kart 8,Kart racing,Wii U,Nintendo,Japan
+2014,Shovel Knight,Platform,"Nintendo 3DS,PC,Wii U",Yacht Club Games,United States
+2015,Bloodborne,Action role-playing,PS4,Sony Computer Entertainment,United States
+2015,Rocket League,Sports,"PC,PS4",Psyonix,United States
+2015,Undertale,Role-playing,"PC,Mac",Toby Fox,Other
+2015,The Witcher 3: Wild Hunt,Action role-playing,"PC,PS4,Xbox One",CD Projekt,Poland
+2016,Dishonored 2,Stealth,"PC,PS4,Xbox One",Bethesda Softworks,United States
+2016,Inside,Puzzle-platform,"Xbox One,PC",Playdead,Other
+2016,Overwatch,First-person shooter,"PC,PS4,Xbox One",Blizzard Entertainment,United States
+2016,Persona 5,Role-playing,"PS3,PS4",Atlus,Japan
+2016,Stardew Valley,Farm life simulation,PC,Chucklefish,United Kingdom
+2016,Uncharted 4: A Thief's End,Action-adventure,PS4,Sony Computer Entertainment,United States
+2017,Fortnite,Third-person shooter,"PC,Mac,PS4,Xbox One",Epic Games,United States
+2017,Hollow Knight,Action-adventure,PC,Team Cherry,Other
+2017,The Legend of Zelda: Breath of the Wild,Action-adventure,"Nintendo Switch,Wii U",Nintendo,Japan
+2017,Super Mario Odyssey,Platform,Nintendo Switch,Nintendo,Japan
+2018,Celeste,Platform,"Linux,Mac,Nintendo Switch,PC,PS4",Maddy Makes Games,Other
+2018,God of War,Action-adventure,PS4,Sony Interactive Entertainment,United States
+2018,Red Dead Redemption 2,Action-adventure,"PS4,Xbox One",Rockstar Games,United States
+2018,Super Smash Bros. Ultimate,Fighting,Nintendo Switch,Nintendo,Japan
+2019,Disco Elysium,Role-playing,PC,ZA/UM,Other
+2020,Animal Crossing: New Horizons,Life simulation,Nintendo Switch,Nintendo,Japan
+2020,Hades,Roguelike,"PC,Mac,Nintendo Switch",Supergiant Games,United States
+2022,Elden Ring,Action role-playing,"PC,PS4,PS5,Xbox One,Xbox Series X/S",Bandai Namco,Japan
+2023,Baldur's Gate 3,Role-playing,PC,Larian Studios,Other
