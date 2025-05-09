@@ -1,0 +1,39 @@
+# Jupyter
+notebook
+ipykernel
+
+# Web scraping
+requests
+beautifulsoup4
+lxml
+
+# Data handling & visualization
+pandas
+matplotlib
+seaborn
+tqdm
+
+# NLP and keyword extraction
+jieba
+nltk
+langid
+langdetect
+keybert
+sentence-transformers
+
+# PDF parsing
+PyMuPDF
+
+# LangChain and vector storage
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+
+# Streamlit (optional if you're building UI)
+streamlit
+
+# For SQLite operations (standard library, included with Python)
+
+# If using a config file, ensure .env loading (optional)
+python-dotenv
