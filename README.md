@@ -5,14 +5,13 @@
 This project showcases a Retrieval-Augmented Generation chatbot built with the LangChain framework, Jupyter Notebook, and Streamlit UI. This chatbot answers natural-language questions about 337 video games.
 
 The RAG system designed for this project follows the workflow below:
-1. Chunking the .txt file into manageable segments.
-2. Extracting keywords from each chunk using KeyBERT.
-3. Embedding each chunk and its keywords into vectors.
-4. Storing the vectors in a FAISS (Facebook AI Similarity Search) index file.
-5. Accepting user questions through a UI.
-6. Performing similarity search to retrieve the most relevant chunks and keywords.
-7. Sending the retrieved content and the user’s question to GPT-4 via a custom AI prompt.
-8. Generating and returning a natural-language answer to the user.
+- Scrape Wikipedia descriptions for all 337 video games.
+- Chunk the text and extract keywords from each game’s description.
+- Generate vector embeddings for each chunk using the OpenAI API.
+- Store the embeddings in local FAISS index files for fast similarity search.
+- When a user asks a question, perform a similarity search against the FAISS index to retrieve relevant context.
+- Feed the retrieved content into GPT-4 along with a custom prompt.
+- Use the OpenAI API to generate a response based on the context.
 
 While chatting, you can reference the best_video_games.csv file to decide what questions you would like to ask!
 
