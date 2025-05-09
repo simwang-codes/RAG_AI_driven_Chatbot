@@ -2,9 +2,11 @@
 
 ## Introduction
 
-This project showcases a Retrieval-Augmented Generation chatbot built with the LangChain framework and Streamlit UI.
+This project showcases a Retrieval-Augmented Generation chatbot built with the LangChain framework, Jupyter Notebook, and Streamlit UI.
 
-It answers natural-language questions about 337 video games from an HTML table by retrieving relevant context using a FAISS index and similarity search. Game data is embedded and stored locally for fast retrieval. The chatbot uses OpenAI's API to generate accurate responses, and users can reference best_video_games.csv while chatting. 
+This chatbot answers natural-language questions about 337 video games. It scrapes each game's Wikipedia description, chunks the text, extracts keywords, and converts the content into vector embeddings using the OpenAI API. These vectors are stored locally in FAISS index files for fast similarity search. When a user submits a question, the chatbot performs a similarity search to retrieve relevant context, feeds the results into GPT-4 along with a custom prompt, and generates a response using the OpenAI API.
+
+While chatting, you can reference the best_video_games.csv file to decide what questions you would like to ask!
 
 Read the How to Run section for step-by-step setup instructions on your Mac.
 
